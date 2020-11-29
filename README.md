@@ -1,6 +1,7 @@
 # Clean Code
 
-Este es un resumen o apunte personal basado en los libros [Clean Code](https://www.amazon.com/-/es/Robert-C-Martin/dp/0132350882) de Robert C. Martin, [Clean Javascritp](https://softwarecrafters.io/javascript/clean-code-javascript) de Software Crafters y mucho google, que tiene como objetivo mejorar las buenas practicas y escritura de codigo.
+Este es un resumen o apunte personal basado en los libros [Clean Code](https://www.amazon.com/-/es/Robert-C-Martin/dp/0132350882) de Robert C. Martin, [Clean Javascritp](https://softwarecrafters.io/javascript/clean-code-javascript) de Software Crafters y mucho google.
+Y su objetivo principal es mejorar las buenas practicas y escritura de codigo.
 
 ## Intro
 
